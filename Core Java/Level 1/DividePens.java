@@ -4,7 +4,6 @@ public class DividePens {
         int students = 3;
         int perStudent = pens / students;
         int rem = pens % students;
-        System.out.println(
-                "The Pen Per Student is " + perStudent + " and the remaining pen not distributed is " + rem);
+        System.out.println("The Pen Per Student is " + perStudent + " and the remaining pen not distributed is " + rem);
     }
 }
